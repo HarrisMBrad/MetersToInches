@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">MetersToInches</string>
+    <string name="converButtonId" translatable="false">Convert</string>
+    <string name="metersEditTextId" translatable="false">Enter In Meters</string>
+    <string name="ImageViewId" translatable="false">meters_to_inches_image</string>
+    <string name="error_message" translatable="false">Please enter a valid number</string>
+</resources>
